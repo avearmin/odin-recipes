@@ -1,0 +1,19 @@
+body {
+    background-color: #454545;
+    color: #ffffff;
+    font-family: Helvetica, Verdana, Sans-serif;
+    font-size: 22px;
+}
+
+a {
+    color: #ccccff;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.warning {
+    color: #ff0000
+}
